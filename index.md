@@ -1,5 +1,6 @@
+# Welcome to MetaLogic
 [Probabilistic_Logics.pdf](https://github.com/seeajay1/seeajay1.github.io/files/8259880/Probabilistic_Logics.pdf)
-## Welcome to MetaLogic
+
 
 You can use the [editor on GitHub](https://github.com/seeajay1/seeajay1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 

@@ -1,4 +1,4 @@
-# Welcome to MetaLogic
+#MetaLogic
 [Probabilistic_Logics.pdf](https://github.com/seeajay1/seeajay1.github.io/files/8259880/Probabilistic_Logics.pdf)
 
 
@@ -6,8 +6,17 @@ You can use the [editor on GitHub](https://github.com/seeajay1/seeajay1.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+1*   The world is all that is the case.
+1.1  The world is the totality of facts, not of things.
+1.11 The world is determined by the facts, and by their being
+     all the facts.
+1.12 For the totality of facts determines what is the case, and
+     also whatever is not the case.
+1.13 The facts in logical space are the world.
+1.2  The world divides into facts.
+1.21 Each item can be the case or not the c
 
+### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown

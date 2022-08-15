@@ -1,4 +1,4 @@
-# MetaLogic
+## Knowledge Representation 
 
 [Probabilistic_Logics.pdf](https://github.com/seeajay1/seeajay1.github.io/files/8259880/Probabilistic_Logics.pdf)
 

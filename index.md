@@ -13,7 +13,7 @@
 1.13 The facts in logical space are the world.
 1.2  The world divides into facts.
 1.21 Each item can be the case or not the case while everything
-else remains the same.
+     else remains the same.
 ```
 
 ### Markdown

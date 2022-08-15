@@ -10,6 +10,14 @@ So according to Peter et al. (1992) , it is not possible to construct a formal t
 representation and reasoning. So 'knowledge' is an illusive and only a formal representation may 
 develop confidence in knowledge sharing, knowledge sharing is not possible.
 Knowledge sharing is essentially a process of interaction between individuals, groups, or
+or organizations to transfer or share of knowledge that have been owned by one party with
+the other party. According to Nonaka et al. (2006) , the most important for the effective 
+knowledge sharing process is the characteristics of knowledge, knowledge sharing, and knowledge 
+sharing process, and human resources. Nonaka et al. (2006) divide into four knowledge management
+perspectives namely explicit knowledge and tacit knowledge; dynamic knowledge and static knowledge;
+individual knowledge and organizational knowledge; and individual knowledge sharing and organizational
+knowledge sharing. According to Flechter et al. (2007) , knowledge sharing is not an easy task, because
+the barriers to knowledge sharing as a lack of trust, no values, fears, indifference and resistance.
 ```
 
 [Probabilistic_Logics.pdf](https://github.com/seeajay1/seeajay1.github.io/files/8259880/Probabilistic_Logics.pdf)

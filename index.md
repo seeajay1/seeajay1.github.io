@@ -1,6 +1,14 @@
 ## Knowledge Representation 
 ```
-Knowledge representation and reasoning . this sentence have three part, first is knowledge second is how to represent that knowledge and based on that knowledge third part reasoning part, but when we look in very depth knowledge the knowledge is a process of generation, modification, movement, selection, distribution, discovery and evaluation of knowledge. These different view of knowledge indicate that the 'knowledge' can exist in different form and form. So 'knowledge' is essentially a difficult thing to understand because knowledge is also one of the ambiguous concept. So according to Peter et al. (1992) , it is not possible to construct a formal theory of knowledge representation and reasoning. So 'knowledge' is an illusive and only a formal representation may develop confidence in knowledge sharing, knowledge sharing is not possible.
+Knowledge representation and reasoning . this sentence have three part, first is knowledge
+second is how to represent that knowledge and based on that knowledge third part reasoning,
+but when we look in very depth knowledge the knowledge is a process of generation, modification,
+movement, selection, distribution, discovery and evaluation of knowledge. These different view of
+knowledge indicate that the 'knowledge' can exist in different form and form. So 'knowledge' is
+essentially a difficult thing to understand because knowledge is also one of the ambiguous concept.
+So according to Peter et al. (1992) , it is not possible to construct a formal theory of knowledge 
+representation and reasoning. So 'knowledge' is an illusive and only a formal representation may 
+develop confidence in knowledge sharing, knowledge sharing is not possible.
 Knowledge sharing is essentially a process of interaction between individuals, groups, or
 ```
 
